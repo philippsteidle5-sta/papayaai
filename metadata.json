@@ -1,0 +1,6 @@
+{
+  "name": "PapayaOS Chat",
+  "description": "Ein eleganter, nativer Chat- und KI-Assistent für das Betriebssystem PapayaOS mit Automatisierung, Systembefehlen und intelligenter Workflow-Unterstützung.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
